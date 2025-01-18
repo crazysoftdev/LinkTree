@@ -56,7 +56,7 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jeffjiang13/Linktree.git
+   git clone https://github.com/crazysoftdev/Linktree.git
    ```
 2. Install NPM packages
    ```sh
